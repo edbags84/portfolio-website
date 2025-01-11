@@ -80,6 +80,12 @@ nav > ul > li > a {
   background-color: #ddd;
   color: black;
 }
+#hero {
+  background-color: #ffe4c4;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
 /* Fake image, just for this example */
 .fakeimg {
   background-color: rgb(195, 255, 235);
