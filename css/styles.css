@@ -185,3 +185,13 @@ Extra-large devices (1920px or larger)
 ================================= */
 @media only screen and (min-width: 1920px) {
 }
+
+.headshot-conatiner img {
+  width: 200px;
+}
+.image-wrapper {
+  border: 1px solid #ccc;
+}
+.description-wrapper {
+  padding-left: 20px;
+}
